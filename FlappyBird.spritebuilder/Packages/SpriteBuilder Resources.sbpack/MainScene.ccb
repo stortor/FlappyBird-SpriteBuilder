@@ -808,8 +808,6 @@
 						<real>0.5</real>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1215,7 +1213,7 @@
 						<string>Text</string>
 						<key>value</key>
 						<array>
-							<string>0WOW</string>
+							<string>0</string>
 							<false/>
 						</array>
 					</dict>
@@ -1351,6 +1349,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
